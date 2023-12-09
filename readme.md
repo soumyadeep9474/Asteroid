@@ -2,7 +2,7 @@
 
 This game is a clone of the old arcade asteroids game
 
-
+![screenshot](https://github.com/soumyadeep9474/Asteroid/assets/105192349/805dca56-466b-4f20-92a1-5d347c7eb2bb)
 
 ## Version 1
 
